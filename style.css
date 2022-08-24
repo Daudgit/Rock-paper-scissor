@@ -1,0 +1,36 @@
+body
+{
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Lucida Console' , 'Courier New' , monospace;
+
+}
+
+.container{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    border: 3px solid grey;
+    padding: 5px;
+    box-shadow: -2px -9px 5px -1px rgba(0, 0, 0, 0.75);;
+
+}
+
+
+.container h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+img{
+    width: 100px;
+}
+
+.hands{
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+}
